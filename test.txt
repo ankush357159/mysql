@@ -1,0 +1,3 @@
+1	Kamal	kamal@gmail.com	Mumbai	90	\N	\N
+2	Vimal	vimal@gmail.com	Navi Mumbai	80	\N	\N
+3	Deepak	deepak@gmail.com	Thane	75	\N	\N
